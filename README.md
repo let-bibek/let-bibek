@@ -1,8 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Bibek Shrestha</h1>
-
-<center><img src="https://github.com/let-bibek/Project-Assits/blob/main/softdrax.jpg" align="center" alt="let-bibek brand image"></center>
-
-
 -------------------
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Fellow+Programmer;Meet+Bibek+Specialized+In+Web+and+App;Always+learning+new+things"></a>
